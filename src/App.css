@@ -184,6 +184,14 @@ body {
     right: 5%;
   }
 
+  .navBar {
+    font-size: 20px;
+  }
+
+  .navBar img {
+    width: 100px;
+  }
+
   .socialLogos {
     display: none;
   }
@@ -201,6 +209,6 @@ body {
     display: none;
   }
   .shop {
-    margin-top: 300px;
+    margin-top: 275px;
   }
 }
