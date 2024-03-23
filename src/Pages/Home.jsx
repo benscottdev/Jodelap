@@ -1,5 +1,5 @@
 import HomeNav from "../Components/HomeNav";
-import JodelapLogo from "../Assets/Jodelap_Logo.png";
+import JodelapLogo from "../Assets/Jodelap_Logo_Floral.png";
 import SocialLinks from "../Components/SocialLinks";
 
 function Home() {

@@ -26,7 +26,7 @@ body {
 }
 
 .homeLogo {
-  width: 400px;
+  width: 700px;
 }
 
 .socialLogos {
@@ -162,4 +162,45 @@ body {
   margin-top: 50%;
   font-family: "Nohemi Bold";
   color: white;
+}
+
+/* MEDIA QUERY */
+
+@media (max-width: 450px) {
+  .homePage {
+    width: 100%;
+  }
+
+  .homePage img {
+    width: 70%;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -25%);
+  }
+
+  .homeNav {
+    font-size: 45px;
+    right: 5%;
+  }
+
+  .socialLogos {
+    display: none;
+  }
+
+  .about {
+    margin-top: 200px;
+    flex-direction: column;
+  }
+  .about p {
+    width: 350px;
+    font-size: 14px;
+    margin-top: 50px;
+  }
+  #IMAGEPLACEHOLDER {
+    display: none;
+  }
+  .shop {
+    margin-top: 300px;
+  }
 }
