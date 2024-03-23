@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "product": "Box Tee",
+    "price": "49.95",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil sed consequatur, enim iste id ipsum possimus similique, placeat ipsa aperiam nam, ab illum vitae at reprehenderit blanditiis magnam deleniti. Obcaecati.",
+    "weight": "0.3",
+    "image": "INPUTSRC"
+  },
+  {
+    "id": "2",
+    "product": "Hoodie",
+    "price": "99.95",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil sed consequatur, enim iste id ipsum possimus similique, placeat ipsa aperiam nam, ab illum vitae at reprehenderit blanditiis magnam deleniti. Obcaecati.",
+    "weight": "0.5",
+    "image": "INPUTSRC"
+  },
+  {
+    "id": "3",
+    "product": "Pants",
+    "price": "139.95",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil sed consequatur, enim iste id ipsum possimus similique, placeat ipsa aperiam nam, ab illum vitae at reprehenderit blanditiis magnam deleniti. Obcaecati.",
+    "weight": "0.4",
+    "image": "INPUTSRC"
+  },
+  {
+    "id": "4",
+    "product": "Trucker Hat",
+    "price": "39.95",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil sed consequatur, enim iste id ipsum possimus similique, placeat ipsa aperiam nam, ab illum vitae at reprehenderit blanditiis magnam deleniti. Obcaecati.",
+    "weight": "0.2",
+    "image": "INPUTSRC"
+  },
+  {
+    "id": "5",
+    "product": "Gloves",
+    "price": "69.95",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil sed consequatur, enim iste id ipsum possimus similique, placeat ipsa aperiam nam, ab illum vitae at reprehenderit blanditiis magnam deleniti. Obcaecati.",
+    "weight": "0.22",
+    "image": "INPUTSRC"
+  },
+  {
+    "id": "6",
+    "product": "Gloves",
+    "price": "69.95",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil sed consequatur, enim iste id ipsum possimus similique, placeat ipsa aperiam nam, ab illum vitae at reprehenderit blanditiis magnam deleniti. Obcaecati.",
+    "weight": "0.22",
+    "image": "INPUTSRC"
+  },
+  {
+    "id": "7",
+    "product": "Gloves",
+    "price": "69.95",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil sed consequatur, enim iste id ipsum possimus similique, placeat ipsa aperiam nam, ab illum vitae at reprehenderit blanditiis magnam deleniti. Obcaecati.",
+    "weight": "0.22",
+    "image": "INPUTSRC"
+  },
+  {
+    "id": "8",
+    "product": "Gloves",
+    "price": "69.95",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil sed consequatur, enim iste id ipsum possimus similique, placeat ipsa aperiam nam, ab illum vitae at reprehenderit blanditiis magnam deleniti. Obcaecati.",
+    "weight": "0.22",
+    "image": "INPUTSRC"
+  }
+]
