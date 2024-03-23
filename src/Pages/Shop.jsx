@@ -29,7 +29,7 @@ function Shop() {
             </a>
             <div
               className="itemInfo"
-              style={{ transition: 0.3 "ease", opacity: hover === index ? 1 : 0 }}
+              style={{ opacity: hover === index ? 1 : 0 }}
             >
               <h1>{item.product}</h1>
               <h2>${item.price}</h2>
