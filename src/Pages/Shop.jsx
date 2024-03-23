@@ -24,7 +24,7 @@ function Shop() {
             onMouseEnter={() => handleHover(index)}
             onMouseLeave={offHover}
           >
-            <a href="">
+            <a href="null">
               <img src={item.image} alt="" />
             </a>
             <div
